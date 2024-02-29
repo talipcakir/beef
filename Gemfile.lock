@@ -119,7 +119,7 @@ GEM
       mojo_magick (~> 0.6.5)
       rqrcode_core (~> 0.1)
     racc (1.7.1)
-    rack (2.2.7)
+    rack (2.2.8.1)
     rack-protection (3.0.6)
       rack
     rack-test (2.1.0)
@@ -255,7 +255,7 @@ DEPENDENCIES
   mime-types (~> 3.4, >= 3.4.1)
   msfrpc-client (~> 1.1, >= 1.1.2)
   net-smtp
-  otr-activerecord (~> 2.1, >= 2.1.2)
+  otr-activerecord (= 2.1.2)
   parseconfig (~> 1.1, >= 1.1.2)
   pry-byebug (~> 3.10, >= 3.10.1)
   qr4r (~> 0.6.1)
